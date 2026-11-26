@@ -1,0 +1,10 @@
+a=eval(input())
+print(sum(a))
+print(len(a))
+print(min(a))
+print(max(a))
+print(sorted(a))
+for i in enumerate(a,start=4):
+    print(i)
+z=list(zip(a,i))
+print(z)

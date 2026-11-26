@@ -1,0 +1,22 @@
+colors = ("red", "blue", "green")
+print("Tuple:", colors)
+print("First color:", colors[0])
+for color in colors:
+    print(color)
+numbers = {10, 20, 10, 30, 20}
+print("Set:", numbers)
+numbers.add(40)
+numbers.discard(20)
+print("Updated set:", numbers)
+message = "  hello python internship  "
+print("Uppercase:", message.upper())
+print("Lowercase:", message.lower())
+print("Title case:", message.title())
+print("Without extra spaces:", message.strip())
+text = "python,java,html"
+languages = text.split(",")
+print("Split string:", languages)
+joined_text = " | ".join(languages)
+print("Joined string:", joined_text)
+print("Replace:", text.replace("java", "javascript"))
+print("Contains python:", "python" in text)
