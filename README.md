@@ -25,3 +25,40 @@
 - VS Code
 - Git
 - GitHub
+## Day 2 – Python Fundamentals
+
+### Topics Covered
+- Loops – for loop, while loop, break and continue
+- Data Structures – Lists, Dictionaries, Tuples and Sets
+- String Methods
+- Functions and Parameters
+- Nested Lists and Dictionaries
+- List Comprehension
+- Dictionary Comprehension
+- Built-in Functions – len(), sum(), max(), min(), sorted(), map(), filter()
+
+### Practical Tasks
+
+**Task 1: Student Marks Analysis**
+- Calculate average marks
+- Find highest marks
+- Find lowest marks
+- Implement using Python functions
+
+**Task 2: Console Chatbot**
+- Keyword-based chatbot responses
+- Use loops and conditional statements
+- Store conversation history using a list of dictionaries
+- Exit chatbot using the `bye` command
+
+### Files
+- `day2_loops.py`
+- `day2_data_structures.py`
+- `day2_tuple_set_strings.py`
+- `day2_functions.py`
+- `day2_nested.py`
+- `day2_comprehension.py`
+- `student_marks.py`
+- `chatbot.py`
+
+**Status:** Completed
