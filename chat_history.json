@@ -1,0 +1,50 @@
+[
+    {
+        "user": "Hi",
+        "bot": "Hello!"
+    },
+    {
+        "user": "How are you?",
+        "bot": "I am fine!"
+    },
+    {
+        "role": "user",
+        "message": "hi"
+    },
+    {
+        "role": "bot",
+        "message": "Sorry, I don't understand."
+    },
+    {
+        "role": "user",
+        "message": "hello"
+    },
+    {
+        "role": "bot",
+        "message": "Hello! How can I help you?"
+    },
+    {
+        "role": "user",
+        "message": "name"
+    },
+    {
+        "role": "bot",
+        "message": "My name is PriyaBot"
+    },
+    {
+        "role": "user",
+        "message": "python"
+    },
+    {
+        "role": "bot",
+        "message": "Python is a programming language."
+    },
+    {
+        "role": "user",
+        "message": "bye"
+    },
+    {
+        "role": "bot",
+        "message": "Goodbye! Have a nice day!"
+    }
+]

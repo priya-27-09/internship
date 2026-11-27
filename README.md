@@ -61,4 +61,34 @@
 - `student_marks.py`
 - `chatbot.py`
 
-**Status:** Completed
+# Day 3 – Python AI-ML Internship
+## Topics Covered
+- Classes and Objects
+- Inheritance
+- Exception Handling
+- File Handling
+- JSON and CSV
+- Python Modules
+- pip and requirements.txt
+- Environment Variables (.env)
+- Basic Type Hints
+
+## Main Task – ChatBot Development
+
+**Features:**
+- Created a ChatBot class.
+- Implemented `add_message()` and `get_reply()`.
+- Saved and loaded chat history using JSON.
+- Handled missing files using `FileNotFoundError`.
+- Read student details using CSV.
+- Calculated student marks summary.
+- Used `.env` to store bot name.
+
+## Libraries Used
+- os
+- json
+- csv
+- python-dotenv
+
+## Learning Outcome
+Learned Python OOP, exception handling, file handling, JSON, CSV, modules, and environment variables through a chatbot project.
